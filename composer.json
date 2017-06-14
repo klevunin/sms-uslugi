@@ -1,6 +1,9 @@
 {
   "name": "klev/sms-uslugi",
   "description": "api sms-uslugi.ru",
+  "keywords": [
+    "sms-uslugi.ru"
+  ],
   "type": "library",
   "license": "MIT",
   "version": "1.0.0",
