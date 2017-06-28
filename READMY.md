@@ -37,4 +37,4 @@ Example 2: (DELETE CONTACT)
 
     require(__DIR__ . "/../vendor/autoload.php");
     $sms = new Klev\SmsUslugi\JsonSms();
-    $sms->addContact($data));
+    $sms->removeContact($data));
